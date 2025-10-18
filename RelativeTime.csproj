@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C9EF4A3B-8B1D-481B-B758-D65DC2F8BABC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ParallelCode1</RootNamespace>
-    <AssemblyName>ParallelCode1</AssemblyName>
+    <RootNamespace>RelativeTime</RootNamespace>
+    <AssemblyName>RelativeTime</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

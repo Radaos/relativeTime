@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ParallelCode1.Properties
+namespace RelativeTime.Properties
 {
 
 
